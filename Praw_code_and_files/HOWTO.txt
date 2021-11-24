@@ -1,0 +1,53 @@
+TUTO to make this code work : 
+
+1.a) Follow this tutorial to create you API 
+and reddit account : https://www.storybench.org/how-to-scrape-reddit-with-python/
+
+1b) Complete the file Credential.txt with your credentials (don't add 
+ANY SPACE). 
+
+2. Download Anaconda : https://www.anaconda.com/ and then 
+install it
+
+3. Search for Anaconda prompt (windows getting started)
+Open this programm : you have openned the anaconda terminal. 
+
+4.
+type : 
+conda create --name HK_seminar
+then press enter
+
+then it will ask you to install a few stuff just 
+tap y and press enter
+
+then type 
+
+conda activate HK_seminar
+ 
+press enter 
+
+5. install (tape the following one by one in anaconda prompt, press enter
+then type y and press enter when required) : 
+
+conda install -c anaconda pandas
+
+conda install -c conda-forge praw
+
+conda install spyder
+
+6. type 
+spyder
+press enter 
+
+Spyder will open. 
+
+7. In file 'open', open the file with my code named (Scrapping_firststeps.py)
+
+8. Click on the folder on the top right and select the folder where you have
+put you "Credential.txt" file. 
+Then you have  the right workingspace folder ! 
+
+9. run the code from top to down (press play icon or ctrl+enter)
+Read the comments if you want to extract the data from your own URL
+10.ask me for any problem ! 
+ 
