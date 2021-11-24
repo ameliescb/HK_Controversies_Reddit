@@ -11,11 +11,12 @@ publicly supporting Hong Kong protestors (see : https://www.pcgamer.com/taiwanes
 The project's findings are detailed in the powerpoint presentation (Reports/Final_Presentation.pptx) and in the final report (Report/Seminar_Thesis.pdf). 
 
 ## The code 
-This project led to scrapping both cases (see jupyter notebooks : Apple_case DataAnalysis.ipynb for the Apple case and 
-Blizzard_case DataAnalysis.ipynb for the Blizzard case). 
-### to run the code. 
-You need to use the packages specified in the requirements.txt file. To scrap more data, go to Data/ and open the jupyter notebook that will create two new csv for you. 
-To analyse these csvs, you 
+This project led to scrapping both cases (see jupyter notebooks : Apple_case_analysis.ipynb for the Apple case and 
+Blizzard_case_analysis.ipynb for the Blizzard case). 
+### Run the code
+You need to use the packages specified in the requirements.txt file. 
+To scrap more data, go to Data/ and open the jupyter notebook that will create two new csv for you. 
+To analyse these csvs, you can look into Apple_case_analysis.ipynb and Blizzard_case_analysis.ipynb. 
 
 ## The main interesting findings from our project : 
 * The Apple's news are so numerous that the case did not have a lot of influence on Apple's reddit thread.
