@@ -8,7 +8,7 @@ publicly supporting Hong Kong protestors (see : https://www.pcgamer.com/taiwanes
 
 
 This project led to scrapping both cases (see jupyter notebooks : Apple_case DataAnalysis.ipynb for the Apple case and 
-Blizzard_case DataAnalysis.ipynb for the Blizzard case), as well as one powerpoint presentation (Final_Presentation.pptx) and a 
-Seminar Thesis (Seminar Thesis Hong Kong.pdf). 
+Blizzard_case DataAnalysis.ipynb for the Blizzard case), as well as one powerpoint presentation (Reports/Final_Presentation.pptx) and a 
+Seminar Thesis (Report/Seminar_Thesis.pdf). 
 
 Enjoy ! 
