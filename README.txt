@@ -11,4 +11,16 @@ This project led to scrapping both cases (see jupyter notebooks : Apple_case Dat
 Blizzard_case DataAnalysis.ipynb for the Blizzard case), as well as one powerpoint presentation (Reports/Final_Presentation.pptx) and a 
 Seminar Thesis (Report/Seminar_Thesis.pdf). 
 
+The main interesting findings from our project : 
+- The Apple's news are so numerous that the case did not have a lot of influence on Apple's reddit thread.
+Nor the opinion, nor the number of removed posts are changing after the event. We then believe that its reputation
+has not collapsed because of this choice to remove the app from the app store. 
+
+-The Blizzard's thread, however, was much impacted by the case. The event can clearly be seen 
+thanks to the number of removed posts and the number of posts that have no title. 
+The people were using posts with a single image and no text to override automatic censorship. 
+
+- The opinion analysis carried out permits to map the positivity or negativity of the posts. The influence of the events on the 
+hate in the posts was rather hard to measure, it didn't move for Apple thread and increased with Blizzard. This seems odd, we believe it to be impacted by the moderation and the supporting messages. 
+
 Enjoy ! 
