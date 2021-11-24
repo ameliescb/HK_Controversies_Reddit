@@ -1,18 +1,21 @@
-# the Hong Kong controversies and their impact on foreign countries' reputation on Reddit
-***
+# Two Hong Kong controversies and their impact on foreign companies' reputation on Reddit
+
 Welcome to our seminar's repository ! 
 
+## The project 
 We chose to study the Hong Kong controversies and their impact on foreign countries' reputation. 
 To do so, we scrapped the reddit social network in relation with two tech companies : 
 	* Apple : a mapping app map used by Hong Kong's protestors to map the repression was withdraw from the App Store (see https://www.theguardian.com/technology/2019/oct/10/tim-cook-apple-hong-kong-mapping-app-removal). 
 	* Blizzard : were an award-winning taiwanese professional game player was fired from Blizzard's prize after 
 publicly supporting Hong Kong protestors (see : https://www.pcgamer.com/taiwanese-hearthstone-caster-fired-after-hong-kong-controversy-says-he-still-doesnt-know-why/)
+The project's findings are detailed in the powerpoint presentation (Reports/Final_Presentation.pptx) and in the final report (Report/Seminar_Thesis.pdf). 
 
-
+## The code 
 This project led to scrapping both cases (see jupyter notebooks : Apple_case DataAnalysis.ipynb for the Apple case and 
-Blizzard_case DataAnalysis.ipynb for the Blizzard case), as well as one powerpoint presentation (Reports/Final_Presentation.pptx) and a 
-Seminar Thesis (Report/Seminar_Thesis.pdf). 
-
+Blizzard_case DataAnalysis.ipynb for the Blizzard case). 
+### to run the code. 
+You need to use the packages specified in the requirements.txt file. To scrap more data, go to Data/ and open the jupyter notebook that will create two new csv for you. 
+To analyse these csvs, you 
 
 ## The main interesting findings from our project : 
 * The Apple's news are so numerous that the case did not have a lot of influence on Apple's reddit thread.
