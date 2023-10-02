@@ -1,4 +1,4 @@
-# Two Hong Kong controversies and their impact on foreign companies' reputation on Reddit
+# Two Hong Kong controversies and their impact on foreign companies' reputation on Reddit - 2019
 
 Welcome to our seminar's repository ! 
 
